@@ -17,9 +17,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Língua inglesa',
-    'Como se diz oi em Inglềs?',
-    'Oi em Inglês é HI (RAI)'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
 
 criaCartao(
@@ -29,7 +29,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Mtemática',
+    'Matemática',
     'Qual é o valor de Pi?',
     '3,14'
 )
